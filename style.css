@@ -1,0 +1,52 @@
+.table-box {
+  border: 1px solid black;
+  position: absolute;
+  width: 80%;
+}
+
+.table-title {
+  /*border: 1px solid black;*/
+  padding: 15px;
+  background-color: green;
+  color: white;
+}
+
+.table-content {
+  /*border: 1px solid black;*/
+  margin: 10px;
+}
+
+.table {
+  border-collapse: collapse;
+}
+
+.table tr th,
+.table tr td {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.btn-tambah {
+  padding: 10px;
+  background-color: green;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  margin: 1px 5=1px;
+}
+
+.btn-detail {
+  padding: 10px;
+  background-color: green;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  margin: 10px 0px;
+}
+
+.form-tambah {
+  width: 50%;
+  display: block;
+  padding: 10px;
+  margin-bottom: 20px;
+}
